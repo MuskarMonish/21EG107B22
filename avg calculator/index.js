@@ -7,7 +7,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-const WINDOW_SIZE = 10; // Change as needed
+const WINDOW_SIZE = 10;
 let windowState = [];
 
 // HTTPS agent to ignore self-signed certificate
