@@ -6,3 +6,6 @@ Develop average calculator HTTP microservice
 
 ![image](https://github.com/user-attachments/assets/c27b9a9f-4523-40f5-908d-ca7ba70b2a73)
 
+Top products HTTP Microservice
+
+![image](https://github.com/user-attachments/assets/d149e9b2-0351-4ee3-9214-c04c0cd6c3ce)
